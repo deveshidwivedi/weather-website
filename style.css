@@ -1,0 +1,45 @@
+  @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap');
+
+
+
+*{
+    margin: auto;
+    width:75%;
+    padding: 10px;
+    
+}
+
+.container{
+ width: 500px;
+ margin: 0;
+ padding: 20px;
+border-radius: 25px;
+background-color: coral;
+
+}
+
+#box{
+    text-transform: capitalize;
+}
+
+.firstbox{
+border: 5px solid black;
+text-align: center;
+width: 100vh;
+justify-content: center;
+align-items: center;
+}
+
+
+.secbox{
+    margin-top: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+
+.heading{
+    font-family: 'Zilla Slab', serif;
+}
